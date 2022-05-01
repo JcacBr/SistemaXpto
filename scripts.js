@@ -52,7 +52,6 @@ var cpfD
 function main(){ 
 
     getDados();
-  //  formtCpf(d._cpf)
     formtData(d._dataN);
     exibirDados();
     impedirRefresh();  
